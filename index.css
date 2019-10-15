@@ -70,7 +70,7 @@ html {
   }
 
   #headline {
-    margin: 50px 0;
+    margin: 20px 0;
     text-align: center;
   }
   
@@ -83,4 +83,8 @@ html {
   
   li {
     margin: 2px 0 0 140px;
+  }
+
+  #title {
+    margin-bottom: -25px;
   }
